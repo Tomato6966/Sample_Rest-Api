@@ -2,7 +2,7 @@
 A Sample rest api using express on replit.com and this is how u access it! could be an NPM MODULE
 
 ## Youtube Tutorial:
-> 
+> https://youtu.be/Y45Uex-Iz-I
 
 ***
 
