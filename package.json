@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.6"
+  },
+  "name": "apitutorialvideo",
+  "version": "1.0.0",
+  "description": "A sample rest api for a youtube tutorial and this is the module how u access it!",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomato6966/Sample_Rest-Api.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "youtube"
+  ],
+  "author": "Tomato#6966",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tomato6966/Sample_Rest-Api/issues"
+  },
+  "homepage": "https://github.com/Tomato6966/Sample_Rest-Api#readme"
+}
